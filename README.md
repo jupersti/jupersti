@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me 👋
 
-<!--
-**jupersti/jupersti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on automating network deployments with Ansible and exploring cloud-native network functions.
+- 🌱 I’m currently learning Rust and Kubernetes to build scalable and secure network solutions.
+- 👯 I’m looking to collaborate on open-source network automation projects and cloud-native network function development.
+- 🤔 I’m looking for help with improving my Rust programming skills and understanding advanced network concepts.
+- 💬 Ask me about network troubleshooting, network security, or cloud networking.
+- 📫 How to reach me: juper1093@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: I once built a home network lab with over 20 devices!
+
